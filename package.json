@@ -1,0 +1,22 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "Test app on the Rinkeby Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwooz/inboxEthereum.git"
+  },
+  "keywords": [
+    "Ethereum"
+  ],
+  "author": "cwooz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwooz/inboxEthereum/issues"
+  },
+  "homepage": "https://github.com/cwooz/inboxEthereum#readme"
+}
